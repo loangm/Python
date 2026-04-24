@@ -1,6 +1,6 @@
 # Wavit
 
-Application de reconnaissance musicale de vinyles développée en Python. Identifie automatiquement des morceaux audio via ACRCloud, enrichit les métadonnées via YouTube et Discogs, et stocke les résultats dans une base de données locale SQLite.
+Programme de reconnaissance musicale de vinyles développée en Python. Identifie automatiquement des morceaux audio via ACRCloud, enrichit les métadonnées via YouTube et Discogs, et stocke les résultats dans une base de données locale SQLite.
 
 -----
 
